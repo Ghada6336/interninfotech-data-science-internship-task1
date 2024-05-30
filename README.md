@@ -1,1 +1,1 @@
-# interninfotech-data-science-internship
+# Intern InfoTech Data science Internship 
