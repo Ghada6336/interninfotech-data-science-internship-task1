@@ -29,3 +29,5 @@
 This dataset contains detailed information about player performance and game progression. The `Player Details Table` includes personal and progress information for each player, while the `Level Details Table` provides data on the levels played, including performance metrics and difficulty settings.
   
 ## Company analysis
+
+The dataset provided contains information about employees, their departments, salaries, titles, and managerial positions. Data set schema is available in excel file.
